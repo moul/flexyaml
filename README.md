@@ -1,7 +1,7 @@
 # flexyaml
 
 [![CircleCI](https://circleci.com/gh/moul/flexyaml.svg?style=svg)](https://circleci.com/gh/moul/flexyaml)
-[![GoDoc](https://godoc.org/github.com/moul/flexyaml?status.svg)](https://godoc.org/github.com/moul/flexyaml)
+[![GoDoc](https://godoc.org/github.com/moul/flexyaml?status.svg)](https://godoc.org/github.com/moul/flexyaml) [![GuardRails badge](https://badges.production.guardrails.io/moul/flexyaml.svg)](https://www.guardrails.io)
 
 Flexible yaml is based on http://gopkg.in/yaml.v2 and supports case insensitive keys (!= RFC)
 
